@@ -81,7 +81,7 @@ while True:
                 ]
 
                 # ------------------------
-                # تحريك المؤشر (Cursor)
+                # moving cursor
                 # ------------------------
                 if not draw_mode:
                     for i, (char, x, y) in enumerate(text_data):
